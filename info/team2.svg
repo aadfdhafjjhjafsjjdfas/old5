@@ -1,0 +1,10 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 35" width="36" height="35">
+	<title>team2</title>
+	<defs>
+		<image  width="32" height="35" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAjCAMAAADCMPhoAAAAAXNSR0IB2cksfwAAAMBQTFRFAAAA////m5ublpaWkJCQdnZ2pqamjY2No6OjnJycmJiYj4+PsrKyfn5+dnZ2////qqqqnp6ejY2NdnZ2np6ednZ2dnZ2urq6hYWFnJycmpqak5OTfn5+jIyMdnZ2pqamdnZ2////nJycdnZ2dnZ2ra2tpqamnp6ednZ2zMzMdnZ2sLCwp6endnZ2oKCg////dnZ2rKyspKSkdnZ2o6OjdnZ2////dnZ2sbGxpaWldnZ2o6Ojqampnp6enp6ekJCQNlPDFwAAAEB0Uk5TAAiTy6sQLkhV2v/XG0IgBH6k8jCV/+85JHPz8kP/8LjADOeAQG6q25AnUF6c0NAUYFua4MSgEHBKi7C2bLPP12GLdTkAAAEESURBVHicdZTrVsIwEISDgGIoLVAWFLSK5a5IQbkIXt7/rbS7e4SWzPzKyTed7El2a0xOhYtiqZzfNObySheVa2ttVR1ezZdFUNdNr2FZzTDNajWpLdZOulm9CW67VtW7+8u6J6KQDXXrUsojOeIBcXpk3n9CnOJjCU5OAzYMIScpYQS5lFAYI04TNkwhpxkbniEnuccXyOfyEK+IawkLyClhwxJyksdeQf4m1/SOOK2Zb7qI05YNO8i1WT4gzzXLGae9GA6Iay+YT8QTHYTgy8mj2f/M9L8dfO6fTJX3c8Yn2bnzIxivCjOOTLwqwfGqLY5XrXG8ap/y2PHrOFYaJ67PfwG7rzgAyNsMRwAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<use id="Background" href="#img1" x="3" y="0" />
+</svg>
